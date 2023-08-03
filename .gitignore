@@ -161,3 +161,8 @@ cython_debug/
 
 # Ignoring env floder
 env/
+
+# mlruns
+mlruns/
+
+temp/
